@@ -1,0 +1,430 @@
+# depslib dependency file v1.0
+1435023921 source:c:\users\administrator\desktop\facedetection\facedetection\main.cpp
+	<iostream>
+	<sstream>
+	"FaceDetection.h"
+
+1434035807 c:\users\administrator\desktop\facedetection\facedetection\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<climits>
+	<ctime>
+	<exception>
+	<stdio.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<process.h>
+	<io.h>
+	<initializer_list>
+	<utility>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	<omp.h>
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc_io_simple_volume.h"
+	"minc_1_simple.h"
+	"minc_1_simple_rw.h"
+	"zlib.h"
+	"curl/curl.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+	<stdint.h>
+
+1305426297 c:\users\administrator\desktop\facedetection\facedetection\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305426297 c:\users\administrator\desktop\facedetection\facedetection\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1305426297 source:c:\users\administrator\desktop\facedetection\facedetection\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1305426297 source:c:\users\administrator\desktop\facedetection\facedetection\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305426297 source:c:\users\administrator\desktop\facedetection\facedetection\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305426297 source:c:\users\administrator\desktop\facedetection\facedetection\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1434895609 c:\users\administrator\desktop\facedetection\facedetection\stage.h
+	<vector>
+	<sstream>
+	"Tree.h"
+
+1434335165 c:\users\administrator\desktop\facedetection\facedetection\tree.h
+	<vector>
+	<sstream>
+	"Node.h"
+
+1434895742 c:\users\administrator\desktop\facedetection\facedetection\node.h
+	<vector>
+	<sstream>
+	"Rect.h"
+
+1434895646 c:\users\administrator\desktop\facedetection\facedetection\rect.h
+	<sstream>
+
+1434895945 source:c:\users\administrator\desktop\facedetection\facedetection\node.cpp
+	"Node.h"
+
+1434895972 source:c:\users\administrator\desktop\facedetection\facedetection\stage.cpp
+	"Stage.h"
+
+1434322206 source:c:\users\administrator\desktop\facedetection\facedetection\tree.cpp
+	"Tree.h"
+
+1434322418 source:c:\users\administrator\desktop\facedetection\facedetection\rect.cpp
+	"Rect.h"
+
+1435023581 source:c:\users\administrator\desktop\facedetection\facedetection\facedetection.cpp
+	"FaceDetection.h"
+	<iostream>
+	<fstream>
+
+1435019970 c:\users\administrator\desktop\facedetection\facedetection\facedetection.h
+	<vector>
+	<map>
+	<string>
+	<sstream>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"Stage.h"
+	"Tree.h"
+	"Node.h"
+	"Rect.h"
+	"Result.h"
+	"CImg.h"
+	"tinyxml/tinyxml.h"
+
+1434893983 c:\users\administrator\desktop\facedetection\facedetection\result.h
+
+1435067643 source:c:\users\user\desktop\facedetectiofinal\main.cpp
+	<iostream>
+	<sstream>
+	"FaceDetection.h"
+
+1435068814 c:\users\user\desktop\facedetectiofinal\facedetection.h
+	<vector>
+	<map>
+	<string>
+	<sstream>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"Stage.h"
+	"Tree.h"
+	"Node.h"
+	"Rect.h"
+	"Result.h"
+	"CImg.h"
+	"tinyxml/tinyxml.h"
+
+1434895610 c:\users\user\desktop\facedetectiofinal\stage.h
+	<vector>
+	<sstream>
+	"Tree.h"
+
+1434335166 c:\users\user\desktop\facedetectiofinal\tree.h
+	<vector>
+	<sstream>
+	"Node.h"
+
+1434895744 c:\users\user\desktop\facedetectiofinal\node.h
+	<vector>
+	<sstream>
+	"Rect.h"
+
+1434895648 c:\users\user\desktop\facedetectiofinal\rect.h
+	<sstream>
+
+1434893984 c:\users\user\desktop\facedetectiofinal\result.h
+
+1434035808 c:\users\user\desktop\facedetectiofinal\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<climits>
+	<ctime>
+	<exception>
+	<stdio.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<process.h>
+	<io.h>
+	<initializer_list>
+	<utility>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	<omp.h>
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc_io_simple_volume.h"
+	"minc_1_simple.h"
+	"minc_1_simple_rw.h"
+	"zlib.h"
+	"curl/curl.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+	<stdint.h>
+
+1305426298 c:\users\user\desktop\facedetectiofinal\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305426298 c:\users\user\desktop\facedetectiofinal\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1434895946 source:c:\users\user\desktop\facedetectiofinal\node.cpp
+	"Node.h"
+
+1434322420 source:c:\users\user\desktop\facedetectiofinal\rect.cpp
+	"Rect.h"
+
+1434895974 source:c:\users\user\desktop\facedetectiofinal\stage.cpp
+	"Stage.h"
+
+1305426298 source:c:\users\user\desktop\facedetectiofinal\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1305426298 source:c:\users\user\desktop\facedetectiofinal\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305426298 source:c:\users\user\desktop\facedetectiofinal\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305426298 source:c:\users\user\desktop\facedetectiofinal\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1434322208 source:c:\users\user\desktop\facedetectiofinal\tree.cpp
+	"Tree.h"
+
+1435068943 source:c:\users\user\desktop\facedetectiofinal\facedetection.cpp
+	"FaceDetection.h"
+	<iostream>
+	<fstream>
+
+1435068943 source:c:\users\user\desktop\facedetectiofinalhamza\facedetection.cpp
+	"FaceDetection.h"
+	<iostream>
+	<fstream>
+
+1435068814 c:\users\user\desktop\facedetectiofinalhamza\facedetection.h
+	<vector>
+	<map>
+	<string>
+	<sstream>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"Stage.h"
+	"Tree.h"
+	"Node.h"
+	"Rect.h"
+	"Result.h"
+	"CImg.h"
+	"tinyxml/tinyxml.h"
+
+1434895610 c:\users\user\desktop\facedetectiofinalhamza\stage.h
+	<vector>
+	<sstream>
+	"Tree.h"
+
+1434335166 c:\users\user\desktop\facedetectiofinalhamza\tree.h
+	<vector>
+	<sstream>
+	"Node.h"
+
+1434895744 c:\users\user\desktop\facedetectiofinalhamza\node.h
+	<vector>
+	<sstream>
+	"Rect.h"
+
+1434895648 c:\users\user\desktop\facedetectiofinalhamza\rect.h
+	<sstream>
+
+1434893984 c:\users\user\desktop\facedetectiofinalhamza\result.h
+
+1434035808 c:\users\user\desktop\facedetectiofinalhamza\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<climits>
+	<ctime>
+	<exception>
+	<stdio.h>
+	<sys/types.h>
+	<sys/time.h>
+	<sys/stat.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<process.h>
+	<io.h>
+	<initializer_list>
+	<utility>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	<omp.h>
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc_io_simple_volume.h"
+	"minc_1_simple.h"
+	"minc_1_simple_rw.h"
+	"zlib.h"
+	"curl/curl.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+	<stdint.h>
+
+1305426298 c:\users\user\desktop\facedetectiofinalhamza\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305426298 c:\users\user\desktop\facedetectiofinalhamza\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1435067643 source:c:\users\user\desktop\facedetectiofinalhamza\main.cpp
+	<iostream>
+	<sstream>
+	"FaceDetection.h"
+
+1434895946 source:c:\users\user\desktop\facedetectiofinalhamza\node.cpp
+	"Node.h"
+
+1434322420 source:c:\users\user\desktop\facedetectiofinalhamza\rect.cpp
+	"Rect.h"
+
+1434895974 source:c:\users\user\desktop\facedetectiofinalhamza\stage.cpp
+	"Stage.h"
+
+1305426298 source:c:\users\user\desktop\facedetectiofinalhamza\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1305426298 source:c:\users\user\desktop\facedetectiofinalhamza\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305426298 source:c:\users\user\desktop\facedetectiofinalhamza\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305426298 source:c:\users\user\desktop\facedetectiofinalhamza\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1434322208 source:c:\users\user\desktop\facedetectiofinalhamza\tree.cpp
+	"Tree.h"
+
